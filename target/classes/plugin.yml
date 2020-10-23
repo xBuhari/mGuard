@@ -1,0 +1,9 @@
+main: me.xBuhari.MGuard.MGuardMain
+name: mGuard
+version: 1.3
+description: Server Protection
+author: xBuhariPvP
+softdepend: [AuthMe]
+commands:
+    mguard:
+        description: Main Command

@@ -1,0 +1,17 @@
+ayarlar:
+    kullankomut: kullan
+    sifre: '360e46f15f432af83c77017177a759aba8a58519' #Varsayılan şifre: 123456a
+    kicksuresi: 15
+    kickmesaji: '&7| &cGüvenlik şifresini girmediniz.'
+    sifreleme: SHA1
+    # Sifreleme Turleri:
+    #
+    # - SHA256 (Güvenli!)
+    # - SHA1 (Güvenli!)
+    # - MD5 (Güvenli!)
+    # - Base64 (Güvensiz!)
+    
+dil:
+    girismesaj: '&7| &cGüvenlik Koruması aktif. /kullan <şifre> yazabilirsiniz.'
+    dogrulandi: '&7| &aGüvenlik doğrulandı! İyi oyunlar.'
+    sifreyanlis: '&7| &4Güvenlik doğrulanamadı! Şifre yanlış.'
